@@ -14,7 +14,7 @@ Console.WriteLine(name);
 string boolAsString = myBoolean.ToString();
 Console.WriteLine(boolAsString);
 
-
+Console.WriteLine("--TEST--");
 
 
 // type |     var name       | Class needs to be instantiated with 'new' keyword
